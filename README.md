@@ -8,4 +8,4 @@
             <ul> - homologacao </ul>
                 <ul> - Features </ul>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JpqOl1Csvud9KxulDF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minecraft-mojang-sandbox-game-minecraft-live-JpqOl1Csvud9KxulDF">via GIPHY</a></p>
+![Minecraft GIF](https://giphy.com/gifs/minecraft-mojang-sandbox-game-minecraft-live-JpQ0l1Csvud9xKuIDF)
