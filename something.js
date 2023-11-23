@@ -13,7 +13,7 @@ html >
             <script>
                 let x;
                 x = 6;
-                document.getElementById("demo").innerHTML = x;
+                console.log(x);
             </script>
 
         </body>
